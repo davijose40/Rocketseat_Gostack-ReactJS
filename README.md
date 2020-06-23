@@ -1,5 +1,5 @@
 
-<img alt="GoStack Desafio Davi José" src="https://imgur.com/rJkRBJm" />
+<img alt="GoStack Desafio Davi José" src="https://i.imgur.com/rJkRBJm.png" />
 
 <!-- name the thing -->
 # Desafio 02: Conceitos de ReactJS
